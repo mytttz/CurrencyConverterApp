@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyConverterApp</string>
+    <string name="choose_currencies">Choose currencies!</string>
+    <string name="from">From:</string>
+    <string name="quantity">Quantity</string>
+    <string name="currency">Currency</string>
+    <string name="to">To:</string>
+    <string name="covert">Covert</string>
+</resources>
